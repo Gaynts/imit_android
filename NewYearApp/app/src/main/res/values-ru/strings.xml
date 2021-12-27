@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Новогодний Android</string>
+    <string name="meter">метр</string>
+    <string name="tree">Новогодние ёлки</string>
+    <string name="convert">перевести</string>
+    <string name="empty_value">Введённое значение пусто</string>
+    <string name="cat_greeting">Привет, %s!</string>
+    <string name="ball_count_format_str">Количество шариков на ёлке: %d</string>
+    <string name="balls_counter_button_text">+1 шарик на ёлке</string>
+    <string name="red">Красный</string>
+    <string name="yellow">Жёлтый</string>
+    <string name="green">Зелёный</string>
+    <string name="traffic_lights_off">" Светофор выключен"</string>
+    <string name="enter_your_name_hint">Давай познакомимся</string>
+    <string name="the_surprise">Сюрприз</string>
+    <string name="app_greeting">С Новым Годом!</string>
+    <string name="action_to_traffic_lights">Светофор</string>
+    <string name="show_menu">Показать меню</string>
+    <string name="surprise_notification_text">Сюрприз ждет тебя!</string>
+    <string name="action_to_converter">Конвертер</string>
+    <string name="quit_confirm">Вы действительно хотите выйти?</string>
+    <string name="yes">да</string>
+    <string name="no">Нет</string>
+    <string name="friend">друг</string>
+    <string name="the_passenger">Пассажир</string>
+    <string name="action_surprise" translatable="false">Сюрприз</string>
+</resources>

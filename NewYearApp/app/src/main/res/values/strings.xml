@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">New Year Android</string>
+    <string name="cat_greeting">Hi, %s!</string>
+    <string name="ball_count_format_str">Balls count %d</string>
+    <string name="balls_counter_button_text">+1 ball</string>
+    <string name="red">Red</string>
+    <string name="yellow">Yellow</string>
+    <string name="green">Green</string>
+    <string name="traffic_lights_off">Traffic lights off</string>
+    <string name="enter_your_name_hint">Enter your name</string>
+    <string name="about_surprise" translatable="false">Happy new year\nHappy new year\nMay we all have a vision now and then\nOf a world where every neighbor is a friend\nHappy new year\nHappy new year\nMay we all have our hopes our will to try\nIf we don\'t we might as well lay down and die\nYou and I</string>
+    <string name="the_surprise">Surprise</string>
+    <string name="app_greeting">Happy New Year!</string>
+    <string name="action_surprise">\@string/the_surprise</string>
+    <string name="action_to_traffic_lights">To traffic lights</string>
+    <string name="show_menu">Show menu</string>
+    <string name="surprise_notification_text">The Surprise waiting you!</string>
+    <string name="action_to_converter">To converter</string>
+    <string name="quit_confirm">Do you really want to leave?</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="friend">friend</string>
+</resources>
